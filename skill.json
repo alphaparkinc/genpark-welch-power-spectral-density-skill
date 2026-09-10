@@ -1,0 +1,17 @@
+{
+  "name": "genpark-welch-power-spectral-density-skill",
+  "version": "1.0.0",
+  "description": "Welch's periodogram method for Power Spectral Density (PSD) estimation using Hann-windowed overlapping signal segmentation.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "welch-psd",
+    "power-spectral-density",
+    "periodogram",
+    "spectral-estimation",
+    "hann-window"
+  ],
+  "dependencies": []
+}
